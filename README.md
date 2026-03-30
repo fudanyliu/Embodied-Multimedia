@@ -247,25 +247,6 @@ Traditional metrics (PSNR, SSIM, FID) measure how good data *looks* to humans. W
 
 ---
 
-## 🗂️ Repository Structure
-
-```
-embodied-multimedia/
-├── README.md
-├── assets/
-│   ├── framework.png          # Four-layer architecture figure
-│   ├── comparison_table.png   # Traditional vs. Embodied Multimedia
-│   └── publication_trend.png  # Research landscape 2015–2025
-├── paper/
-│   └── embodied_multimedia.pdf
-└── resources/
-    ├── datasets.md            # Curated dataset list
-    ├── benchmarks.md          # Benchmark summary
-    └── awesome_papers.md      # Paper collection by topic
-```
-
----
-
 ## 📖 Citation
 
 If you find this survey useful for your research, please consider citing:
@@ -289,6 +270,7 @@ If you find this survey useful for your research, please consider citing:
 ## 📬 Contact
 
 For questions, discussions, or collaboration inquiries, please reach out to the authors:
+- **Wei Zuo** — [wzuo25@m.fudan.edu.cn](mailto:wzuo25@m.fudan.edu.cn) — Fudan University
 - **Yang Liu** — [yangliu25@tongji.edu.cn](mailto:yangliu25@tongji.edu.cn) — Tongji University
 - **Xinhua Zeng** — [xhzeng@fudan.edu.cn](mailto:xhzeng@fudan.edu.cn) — Fudan University
 
