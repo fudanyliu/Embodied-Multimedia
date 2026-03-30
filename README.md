@@ -276,17 +276,11 @@ If you find this survey useful for your research, please consider citing:
   author       = {Zuo, Wei and Liu, Yang and Yang, Weniang and Wu, Feng and
                   Zhou, Wei and Liu, Jing and Sun, Peng and Cheng, Jing and
                   Yang, Dingkang and Zeng, Xinhua},
-  journal      = {ACM Computing Surveys},
   volume       = {1},
   number       = {1},
   pages        = {1--35},
   year         = {2026},
-  month        = {March},
-  publisher    = {Association for Computing Machinery},
-  address      = {New York, NY, USA},
-  doi          = {10.1145/nnnnnnn.nnnnnnn},
-  url          = {https://doi.org/10.1145/nnnnnnn.nnnnnnn},
-  note         = {Manuscript submitted to ACM}
+  note         = {Manuscript submitted to ACM CSUR}
 }
 ```
 
@@ -294,11 +288,8 @@ If you find this survey useful for your research, please consider citing:
 
 ## 📬 Contact
 
-For questions, discussions, or collaboration inquiries, please reach out to the corresponding authors:
-
-- **Jing Liu** — [jing.liu@ieee.org](mailto:jing.liu@ieee.org) — University of British Columbia
-- **Jing Cheng** — [jcheng@phy.ecnu.edu.cn](mailto:jcheng@phy.ecnu.edu.cn) — East China Normal University
-- **Dingkang Yang** — [dkyang20@fudan.edu.cn](mailto:dkyang20@fudan.edu.cn) — Fudan University
+For questions, discussions, or collaboration inquiries, please reach out to the authors:
+- **Yang Liu** — [yangliu25@tongji.edu.cn](mailto:yangliu25@tongji.edu.cn) — Tongji University
 - **Xinhua Zeng** — [xhzeng@fudan.edu.cn](mailto:xhzeng@fudan.edu.cn) — Fudan University
 
 Or open a GitHub [Issue](../../issues) for technical discussions and suggestions.
