@@ -57,7 +57,7 @@ Traditional multimedia was built for **human observers**: compressing what the e
 This survey formally introduces **Embodied Multimedia**: a unified paradigm that re-engineers the entire multimedia stack — from data acquisition to communication to cognition to evaluation — to serve not human audiences, but **embodied intelligent agents**.
 
 <div align="center">
-  <img src="assets/framework.png" alt="Embodied Multimedia Framework Overview" width="85%"/>
+  <img src="framework.png" alt="Embodied Multimedia Framework Overview" width="85%"/>
   <br/>
   <em>Figure 1: The four-layer Embodied Multimedia architecture and survey organization.</em>
 </div>
