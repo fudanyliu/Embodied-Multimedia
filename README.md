@@ -54,7 +54,7 @@ Traditional multimedia was built for **human observers**: compressing what the e
 
 > *"Multimedia data is no longer merely content for human consumption; it serves as the essential sensory foundation that bridges an agent's cognition and physical execution."*
 
-This survey formally introduces **Embodied Multimedia**: a unified paradigm that re-engineers the entire multimedia stack — from data acquisition to communication to cognition to evaluation — to serve not human audiences, but **embodied intelligent agents**.
+This [survey](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6456578) formally introduces **Embodied Multimedia**: a unified paradigm that re-engineers the entire multimedia stack — from data acquisition to communication to cognition to evaluation — to serve not human audiences, but **embodied intelligent agents**.
 
 <div align="center">
   <img src="framework.png" alt="Embodied Multimedia Framework Overview" width="85%"/>
@@ -252,16 +252,14 @@ Traditional metrics (PSNR, SSIM, FID) measure how good data *looks* to humans. W
 If you find this survey useful for your research, please consider citing:
 
 ```bibtex
-@article{zuo2026embodied,
-  title        = {Embodied Multimedia: When Multimedia Meets Embodied Intelligence},
-  author       = {Zuo, Wei and Liu, Yang and Yang, Weniang and Wu, Feng and
-                  Zhou, Wei and Liu, Jing and Sun, Peng and Cheng, Jing and
-                  Yang, Dingkang and Zeng, Xinhua},
-  volume       = {1},
-  number       = {1},
-  pages        = {1--35},
-  year         = {2026},
-  note         = {Manuscript submitted to ACM CSUR}
+@misc{zuo2026embodied,
+  author    = {Zuo, Wei and Liu, Yang and Yang, Weniang and Wu, Feng and Zhou, Wei and Liu, Jing and Sun, Peng and Cheng, Jing and Yang, Dingkang and Zeng, Xinhua},
+  title     = {Embodied Multimedia: When Multimedia Meets Embodied Intelligence},
+  year      = {2026},
+  month     = {March},
+  note      = {Available at SSRN: \url{https://ssrn.com/abstract=6456578}},
+  doi       = {10.2139/ssrn.6456578},
+  url       = {https://ssrn.com/abstract=6456578}
 }
 ```
 
